@@ -7,7 +7,7 @@ USING_NS_CC;
 
 AppDelegate::AppDelegate()
 {
-
+	CCLog("Hello");
 }
 
 AppDelegate::~AppDelegate()
