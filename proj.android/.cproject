@@ -26,7 +26,7 @@
 								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.476820113" languageId="org.eclipse.cdt.core.assembly" languageName="Assembly" sourceContentType="org.eclipse.cdt.core.asmSource" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
 							</tool>
 							<tool id="org.eclipse.cdt.build.core.settings.holder.895392448" name="GNU C++" superClass="org.eclipse.cdt.build.core.settings.holder">
-								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.1875844845" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" valueType="includePath">
+								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.1875844845" name="Include Paths" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" valueType="includePath">
 									<listOptionValue builtIn="false" value="/Users/jacklin/Desktop/Android/Dev/android-ndk-r8d/platforms/android-3/arch-arm/usr/include"/>
 									<listOptionValue builtIn="false" value="/Users/jacklin/Desktop/Android/Dev/cocos2d-2.0-x-2.0.3/cocos2dx/include"/>
 								</option>
